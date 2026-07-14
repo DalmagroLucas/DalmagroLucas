@@ -4,25 +4,11 @@
 
 ###
 
-<div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/dalmagro-lucas" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Lucas-Dañ.Lucas-Dañ&"  />
-</div>
-
-###
-
 <h1 data-importer="text" align="center">Greetings! I am Dalmagro Lucas</h1>
 
 ###
 
-<h3 data-importer="text" align="left">A little about me...</h3>
+<h3 data-importer="text" align="left">✏️​A little about me...</h3>
 
 ###
 
@@ -50,6 +36,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">💬​Contact me</h3>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="www.linkedin.com/in/dalmagro-lucas" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="3417251211" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="dalmagrolucas123@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
