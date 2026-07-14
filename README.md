@@ -44,6 +44,6 @@
 
 ###
 
-* [LinkedIn](www.linkedin.com/in/dalmagro-lucas/)
+* [LinkedIn](https://www.linkedin.com/in/dalmagro-lucas/)
 
 ###
