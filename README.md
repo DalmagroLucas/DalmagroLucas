@@ -45,5 +45,6 @@
 ###
 
 * [LinkedIn](https://www.linkedin.com/in/dalmagro-lucas/)
+* [Gmail](mailto:dalmagrolucas123@gmail.com)
 
 ###
